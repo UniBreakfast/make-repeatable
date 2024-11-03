@@ -1,4 +1,4 @@
-# make-repeatable
+# [make-repeatable](https://github.com/UniBreakfast/make-repeatable)
 
 Write a function that will take any function fn and an interval inter in ms and return two functions: one to (re)start calling fn every inter ms and another to stop doing that.
 ![image](https://github.com/user-attachments/assets/aa44c242-f493-4154-b15e-7b2a55f960ab)
